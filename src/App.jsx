@@ -292,7 +292,7 @@ function App() {
         </div>
 
         <div className="text-center text-black-500 text-xs mt-12 border-t border-black pt-6">
-          <p>© 2025 Wanderlust Travels. All rights reserved.</p>
+          <p>© 2025 Wanderlust Travels. All rights reserved.tytyjhtjh</p>
         </div>
       </footer>
     </div>
